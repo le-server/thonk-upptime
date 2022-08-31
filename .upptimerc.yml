@@ -32,15 +32,17 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.thonk.xyz
-  themeUrl: https://uptime.thonk.xyz/custom.css
+  themeUrl: https://raw.githubusercontent.com/le-server/thonk-upptime/master/assets/custom.css
   # baseUrl: /your-repo-name
-  logoUrl: https://uptime.thonk.xyz/tr.png
+  logoUrl: https://raw.githubusercontent.com/le-server/thonk-upptime/master/assets/tr.png
   name: Upptime
   introTitle: "Thonk Global Cloud Services Uptime Monitor"
   introMessage: "For cloud platform status, see https://status.thonk.xyz — Contact: cloud@thonk.xyz"
   navbar:
     - title: Status
       href: /
+    - title: Home
+      href: https://thonk.xyz
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
