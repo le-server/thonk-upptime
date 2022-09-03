@@ -3,14 +3,11 @@ owner: le-server # Your GitHub organization or username, where this repository l
 repo: thonk-upptime # The name of this repository
 
 sites:
-  - name: Thonk
-    url: https://www.thonk.xyz
-  - name: Thonk Minecraft
-    url: https://www.thonk.xyz
-  - name: Thonk Status Page
-    url: https://www.thonk.xyz
-  - name: Thonk Cloud
-    url: https://www.thonk.cloud
+  - name: Plex
+    url: thonk.xyz:32400
+    expectedStatusCodes:
+      - 200
+      - 401 
   - name: Sonarr
     url: https://sonarr.thonk.xyz
   - name: Radarr
@@ -24,18 +21,25 @@ sites:
     url: https://netdata.thonk.xyz
   - name: Tautulli
     url: https://tautulli.thonk.xyz
-  - name: Files
-    url: https://files.thonk.xyz
-  - name: Skippy Cloud
-    url: $SKIPPY_URL
+  - name: Thonk Minecraft
+    url: https://mc.thonk.xyz
+  - name: Thonk Website
+    url: https://www.thonk.xyz
+  - name: Thonk Cloud
+    url: https://www.thonk.cloud
+  - name: Thonk Status Page
+    url: https://status.thonk.xyz
+  # - name: Skippy Cloud
+  #   url: $SKIPPY_URL
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.thonk.xyz
+  favicon: https://raw.githubusercontent.com/le-server/thonk-upptime/master/assets/tr-b.png
   themeUrl: https://raw.githubusercontent.com/le-server/thonk-upptime/master/assets/custom.css
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/le-server/thonk-upptime/master/assets/tr.png
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/le-server/thonk-upptime/master/assets/tr-small.png
+  name: Thonk Uptime Monitor
   introTitle: "Thonk Global Cloud Services Uptime Monitor"
   introMessage: "For cloud platform status, see https://status.thonk.xyz — Contact: cloud@thonk.xyz"
   navbar:

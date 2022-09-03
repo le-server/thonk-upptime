@@ -1,7 +1,4 @@
-:root {
-    --body-background-color: #000000;
-    --body-text-color: #ffffff;
-    --card-background-color: #000000;
-    --nav-background-color: #000000;
-    --nav-border-bottom-color: #000000;
+body {
+    color: white;
+    background-color: black;
 }
