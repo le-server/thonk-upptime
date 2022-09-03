@@ -35,6 +35,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.thonk.xyz
+  css: "body { color: white; background-color: black; }"
   favicon: https://raw.githubusercontent.com/le-server/thonk-upptime/master/assets/tr-b.png
   themeUrl: https://raw.githubusercontent.com/le-server/thonk-upptime/master/assets/custom.css
   # baseUrl: /your-repo-name
