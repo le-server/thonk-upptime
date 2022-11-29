@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 506,
-    "timeDay": 411,
-    "timeWeek": 495,
-    "timeMonth": 503,
-    "timeYear": 506,
+    "time": 514,
+    "timeDay": 1238,
+    "timeWeek": 602,
+    "timeMonth": 525,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2022-09-29": 335
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 984,
-    "timeDay": 847,
-    "timeWeek": 998,
+    "time": 985,
+    "timeDay": 1069,
+    "timeWeek": 995,
     "timeMonth": 1006,
-    "timeYear": 984,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2022-09-29": 334
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 972,
-    "timeDay": 833,
-    "timeWeek": 991,
-    "timeMonth": 987,
-    "timeYear": 972,
+    "time": 973,
+    "timeDay": 1078,
+    "timeWeek": 1001,
+    "timeMonth": 986,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2022-09-29": 334
     }
@@ -65,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/transmission.thonk.xyz.ico",
     "slug": "transmission",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.81%",
     "uptimeMonth": "96.96%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.67%",
     "time": 788,
-    "timeDay": 631,
-    "timeWeek": 741,
+    "timeDay": 826,
+    "timeWeek": 749,
     "timeMonth": 798,
     "timeYear": 788,
     "dailyMinutesDown": {
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1201,
-    "timeDay": 1043,
-    "timeWeek": 1206,
+    "time": 1203,
+    "timeDay": 1327,
+    "timeWeek": 1232,
     "timeMonth": 1207,
-    "timeYear": 1201,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2022-09-29": 333
     }
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1223,
-    "timeDay": 1065,
-    "timeWeek": 1268,
-    "timeMonth": 1243,
-    "timeYear": 1223,
+    "time": 1225,
+    "timeDay": 1351,
+    "timeWeek": 1258,
+    "timeMonth": 1242,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2022-09-29": 332
     }
@@ -129,18 +129,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mc.thonk.xyz.ico",
     "slug": "thonk-minecraft",
     "status": "down",
-    "uptime": "3.38%",
+    "uptime": "3.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.38%",
+    "uptimeYear": "3.34%",
     "time": 228,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2022-11-28": 97,
+      "2022-11-29": 97,
+      "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
@@ -240,11 +241,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 730,
-    "timeDay": 638,
-    "timeWeek": 788,
+    "time": 731,
+    "timeDay": 823,
+    "timeWeek": 765,
     "timeMonth": 747,
-    "timeYear": 730,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2022-09-29": 332
     }
@@ -260,11 +261,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 66,
-    "timeWeek": 270,
-    "timeMonth": 281,
-    "timeYear": 384,
+    "time": 382,
+    "timeDay": 167,
+    "timeWeek": 185,
+    "timeMonth": 275,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   },
   {
@@ -278,11 +279,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 86,
-    "timeWeek": 165,
-    "timeMonth": 181,
-    "timeYear": 183,
+    "time": 184,
+    "timeDay": 260,
+    "timeWeek": 192,
+    "timeMonth": 182,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   }
 ]
