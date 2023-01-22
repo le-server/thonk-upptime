@@ -26,9 +26,9 @@
     "url": "https://sonarr.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.thonk.xyz.ico",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -38,6 +38,7 @@
     "timeMonth": 993,
     "timeYear": 998,
     "dailyMinutesDown": {
+      "2023-01-22": 0,
       "2022-09-29": 334
     }
   },
@@ -46,9 +47,9 @@
     "url": "https://radarr.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radarr.thonk.xyz.ico",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -58,6 +59,7 @@
     "timeMonth": 976,
     "timeYear": 984,
     "dailyMinutesDown": {
+      "2023-01-22": 0,
       "2022-09-29": 334
     }
   },
@@ -66,9 +68,9 @@
     "url": "https://transmission.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/transmission.thonk.xyz.ico",
     "slug": "transmission",
-    "status": "up",
+    "status": "down",
     "uptime": "97.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "90.70%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "97.69%",
@@ -78,6 +80,7 @@
     "timeMonth": 860,
     "timeYear": 804,
     "dailyMinutesDown": {
+      "2023-01-22": 0,
       "2023-01-17": 540,
       "2023-01-16": 397,
       "2023-01-11": 76,
@@ -101,9 +104,9 @@
     "url": "https://netdata.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/netdata.thonk.xyz.ico",
     "slug": "netdata",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
@@ -113,6 +116,7 @@
     "timeMonth": 1162,
     "timeYear": 1200,
     "dailyMinutesDown": {
+      "2023-01-22": 0,
       "2022-12-25": 21,
       "2022-09-29": 333
     }
@@ -122,9 +126,9 @@
     "url": "https://tautulli.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.thonk.xyz.ico",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -134,6 +138,7 @@
     "timeMonth": 1199,
     "timeYear": 1232,
     "dailyMinutesDown": {
+      "2023-01-22": 0,
       "2022-09-29": 332
     }
   },
@@ -154,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-01-22": 95,
+      "2023-01-22": 216,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -303,9 +308,9 @@
     "url": "https://www.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.thonk.xyz.ico",
     "slug": "thonk-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -315,6 +320,7 @@
     "timeMonth": 733,
     "timeYear": 744,
     "dailyMinutesDown": {
+      "2023-01-22": 0,
       "2022-09-29": 332
     }
   },
