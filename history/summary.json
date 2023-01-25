@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.thonk.xyz.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.48%",
     "uptimeMonth": "97.12%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 1002,
     "timeDay": 872,
     "timeWeek": 1118,
@@ -79,7 +79,7 @@
     "time": 802,
     "timeDay": 629,
     "timeWeek": 761,
-    "timeMonth": 861,
+    "timeMonth": 759,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2023-01-23": 37,
@@ -111,12 +111,12 @@
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.48%",
-    "uptimeMonth": "97.07%",
+    "uptimeMonth": "97.12%",
     "uptimeYear": "99.24%",
     "time": 1206,
     "timeDay": 1016,
     "timeWeek": 1313,
-    "timeMonth": 1197,
+    "timeMonth": 1192,
     "timeYear": 1206,
     "dailyMinutesDown": {
       "2023-01-23": 37,
@@ -164,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-01-25": 82,
+      "2023-01-25": 433,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -356,9 +356,9 @@
     "url": "https://status.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/status.thonk.xyz.ico",
     "slug": "thonk-status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -367,6 +367,8 @@
     "timeWeek": 202,
     "timeMonth": 178,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
