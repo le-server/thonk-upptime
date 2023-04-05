@@ -202,7 +202,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-04-05": 979,
+      "2023-04-05": 1001,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
@@ -468,19 +468,19 @@
     "url": "https://status.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/status.thonk.xyz.ico",
     "slug": "thonk-status-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 254,
-    "timeWeek": 201,
+    "timeDay": 239,
+    "timeWeek": 204,
     "timeMonth": 201,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2023-04-05": 0
+      "2023-04-05": 22
     }
   }
 ]
