@@ -82,11 +82,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/transmission.thonk.xyz.ico",
     "slug": "transmission",
     "status": "up",
-    "uptime": "97.09%",
+    "uptime": "97.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "98.74%",
-    "uptimeYear": "97.09%",
+    "uptimeYear": "97.10%",
     "time": 822,
     "timeDay": 859,
     "timeWeek": 865,
@@ -202,7 +202,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-04-05": 66,
+      "2023-04-05": 979,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
@@ -468,9 +468,9 @@
     "url": "https://status.thonk.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/status.thonk.xyz.ico",
     "slug": "thonk-status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -479,6 +479,8 @@
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 0
+    }
   }
 ]
