@@ -191,7 +191,7 @@
     "uptimeYear": "99.40%",
     "time": 1316,
     "timeDay": 1786,
-    "timeWeek": 1341,
+    "timeWeek": 1360,
     "timeMonth": 1506,
     "timeYear": 1316,
     "dailyMinutesDown": {
@@ -223,7 +223,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-05-23": 80,
+      "2023-05-23": 464,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
@@ -501,7 +501,7 @@
     "uptimeYear": "99.39%",
     "time": 791,
     "timeDay": 870,
-    "timeWeek": 794,
+    "timeWeek": 789,
     "timeMonth": 868,
     "timeYear": 791,
     "dailyMinutesDown": {
@@ -521,9 +521,9 @@
     "url": "https://www.thonk.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/www.thonk.cloud.ico",
     "slug": "thonk-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -532,7 +532,9 @@
     "timeWeek": 194,
     "timeMonth": 242,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 0
+    }
   },
   {
     "name": "Thonk Status Page",
