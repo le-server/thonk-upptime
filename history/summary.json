@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/32400.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 584,
     "timeDay": 532,
     "timeWeek": 529,
@@ -243,7 +243,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-07-12": 1,
+      "2023-07-12": 106,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -595,9 +595,9 @@
     "slug": "thonk-cloud",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "59.53%",
-    "uptimeWeek": "62.75%",
-    "uptimeMonth": "91.43%",
+    "uptimeDay": "60.06%",
+    "uptimeWeek": "62.49%",
+    "uptimeMonth": "91.37%",
     "uptimeYear": "99.17%",
     "time": 294,
     "timeDay": 326,
@@ -605,14 +605,13 @@
     "timeMonth": 296,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-07-12": 0,
-      "2023-07-11": 584,
+      "2023-07-11": 577,
       "2023-07-10": 590,
       "2023-07-09": 764,
       "2023-07-08": 523,
       "2023-07-07": 664,
       "2023-07-06": 575,
-      "2023-07-05": 59
+      "2023-07-05": 93
     }
   },
   {
