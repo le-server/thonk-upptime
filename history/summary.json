@@ -249,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-07-15": 890,
+      "2023-07-15": 925,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
@@ -603,14 +603,14 @@
     "url": "https://www.thonk.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/www.thonk.cloud.ico",
     "slug": "thonk-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "43.65%",
-    "uptimeWeek": "57.58%",
-    "uptimeMonth": "90.24%",
+    "uptimeDay": "43.63%",
+    "uptimeWeek": "57.84%",
+    "uptimeMonth": "90.30%",
     "uptimeYear": "99.07%",
     "time": 308,
-    "timeDay": 454,
+    "timeDay": 457,
     "timeWeek": 356,
     "timeMonth": 318,
     "timeYear": 308,
@@ -621,7 +621,7 @@
       "2023-07-12": 812,
       "2023-07-11": 577,
       "2023-07-10": 590,
-      "2023-07-09": 183
+      "2023-07-09": 156
     }
   },
   {
