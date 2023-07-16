@@ -249,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-07-16": 59,
+      "2023-07-16": 117,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
@@ -606,7 +606,7 @@
     "slug": "thonk-cloud",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "46.80%",
+    "uptimeDay": "50.85%",
     "uptimeWeek": "56.78%",
     "uptimeMonth": "90.05%",
     "uptimeYear": "99.05%",
