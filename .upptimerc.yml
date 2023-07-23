@@ -22,11 +22,9 @@ sites:
   - name: Tautulli
     url: https://tautulli.thonk.xyz
   - name: Thonk Minecraft
-    url: https://mc.thonk.xyz
+    url: https://api.thonk.xyz/minecraft
   - name: Thonk Website
     url: https://www.thonk.xyz
-  - name: Thonk Cloud
-    url: https://www.thonk.cloud
   - name: Thonk Status Page
     url: https://status.thonk.xyz
   # - name: Skippy Cloud
