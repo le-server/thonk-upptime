@@ -1,7 +1,7 @@
 url: thonk.xyz:32400
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-26T17:10:39.914Z
+status: up
+code: 401
+responseTime: 517
+lastUpdated: 2023-10-26T17:23:34.218Z
 startTime: 2022-09-03T06:17:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
