@@ -1,7 +1,7 @@
 url: https://sonarr.thonk.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-02T14:27:51.718Z
+status: up
+code: 200
+responseTime: 999
+lastUpdated: 2023-11-02T14:35:26.167Z
 startTime: 2022-08-31T06:16:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
