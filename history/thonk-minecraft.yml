@@ -1,7 +1,7 @@
 url: https://api.thonk.xyz/minecraft
-status: down
-code: 500
-responseTime: 3802
-lastUpdated: 2023-11-30T22:35:07.331Z
+status: up
+code: 200
+responseTime: 877
+lastUpdated: 2023-11-30T22:42:30.956Z
 startTime: 2022-08-31T06:16:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
