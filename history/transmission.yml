@@ -1,7 +1,7 @@
 url: https://transmission.thonk.xyz
-status: up
-code: 401
-responseTime: 724
-lastUpdated: 2023-12-15T23:08:07.846Z
+status: down
+code: 502
+responseTime: 746
+lastUpdated: 2023-12-16T03:57:29.760Z
 startTime: 2022-08-31T06:16:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
