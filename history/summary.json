@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
     "time": 557,
-    "timeDay": 395,
-    "timeWeek": 484,
+    "timeDay": 537,
+    "timeWeek": 485,
     "timeMonth": 529,
     "timeYear": 555,
     "dailyMinutesDown": {
@@ -35,8 +35,7 @@
       "2023-05-01": 81,
       "2023-03-06": 18,
       "2023-02-14": 15,
-      "2023-01-29": 59,
-      "2023-01-04": 17
+      "2023-01-29": 59
     }
   },
   {
@@ -51,9 +50,9 @@
     "uptimeMonth": "97.06%",
     "uptimeYear": "99.16%",
     "time": 1113,
-    "timeDay": 778,
-    "timeWeek": 1091,
-    "timeMonth": 1084,
+    "timeDay": 1049,
+    "timeWeek": 962,
+    "timeMonth": 1077,
     "timeYear": 1147,
     "dailyMinutesDown": {
       "2023-12-16": 15,
@@ -87,15 +86,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.thonk.xyz.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.09%",
     "uptimeYear": "99.17%",
     "time": 1082,
-    "timeDay": 782,
-    "timeWeek": 961,
-    "timeMonth": 976,
+    "timeDay": 1090,
+    "timeWeek": 965,
+    "timeMonth": 977,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2023-12-08": 882,
@@ -132,9 +131,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.09%",
     "uptimeYear": "97.95%",
-    "time": 840,
-    "timeDay": 584,
-    "timeWeek": 734,
+    "time": 838,
+    "timeDay": 802,
+    "timeWeek": 725,
     "timeMonth": 734,
     "timeYear": 847,
     "dailyMinutesDown": {
@@ -195,8 +194,7 @@
       "2023-01-11": 76,
       "2023-01-10": 1,
       "2023-01-09": 15,
-      "2023-01-05": 81,
-      "2023-01-04": 545
+      "2023-01-05": 81
     }
   },
   {
@@ -210,11 +208,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.09%",
     "uptimeYear": "99.18%",
-    "time": 1217,
-    "timeDay": 771,
-    "timeWeek": 952,
+    "time": 1216,
+    "timeDay": 1050,
+    "timeWeek": 954,
     "timeMonth": 983,
-    "timeYear": 1219,
+    "timeYear": 1218,
     "dailyMinutesDown": {
       "2023-12-08": 882,
       "2023-12-07": 392,
@@ -247,9 +245,9 @@
     "uptimeMonth": "97.09%",
     "uptimeYear": "99.18%",
     "time": 1334,
-    "timeDay": 979,
-    "timeWeek": 1198,
-    "timeMonth": 1213,
+    "timeDay": 1314,
+    "timeWeek": 1197,
+    "timeMonth": 1214,
     "timeYear": 1364,
     "dailyMinutesDown": {
       "2023-12-08": 882,
@@ -277,16 +275,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.thonk.xyz.ico",
     "slug": "thonk-minecraft",
     "status": "up",
-    "uptime": "32.50%",
+    "uptime": "32.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "96.98%",
-    "uptimeYear": "42.79%",
-    "time": 1888,
-    "timeDay": 1095,
-    "timeWeek": 1199,
-    "timeMonth": 1254,
-    "timeYear": 1888,
+    "uptimeYear": "43.07%",
+    "time": 1886,
+    "timeDay": 1326,
+    "timeWeek": 1204,
+    "timeMonth": 1259,
+    "timeYear": 1886,
     "dailyMinutesDown": {
       "2024-01-01": 22,
       "2023-12-10": 26,
@@ -506,8 +504,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   },
   {
@@ -522,9 +519,9 @@
     "uptimeMonth": "97.09%",
     "uptimeYear": "99.19%",
     "time": 818,
-    "timeDay": 584,
-    "timeWeek": 853,
-    "timeMonth": 773,
+    "timeDay": 803,
+    "timeWeek": 857,
+    "timeMonth": 774,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2023-12-08": 882,
@@ -558,10 +555,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 39,
-    "timeWeek": 85,
+    "timeDay": 64,
+    "timeWeek": 66,
     "timeMonth": 231,
-    "timeYear": 198,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2023-04-05": 22
     }
