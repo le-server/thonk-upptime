@@ -1,7 +1,7 @@
 url: https://netdata.thonk.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-20T14:28:10.038Z
+status: up
+code: 200
+responseTime: 782
+lastUpdated: 2024-01-20T14:35:39.391Z
 startTime: 2022-08-31T06:16:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
