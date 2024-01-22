@@ -1,7 +1,7 @@
 url: https://radarr.thonk.xyz
-status: down
-code: 502
-responseTime: 768
-lastUpdated: 2024-01-22T14:28:12.963Z
+status: up
+code: 200
+responseTime: 1106
+lastUpdated: 2024-01-22T14:37:17.948Z
 startTime: 2022-08-31T06:16:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
