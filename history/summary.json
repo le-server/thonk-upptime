@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/32400.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "88.93%",
+    "uptime": "88.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.95%",
-    "time": 509,
+    "uptimeYear": "68.67%",
+    "time": 508,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-07-19": 117,
+      "2025-07-20": 130,
+      "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -134,8 +135,7 @@
       "2024-11-27": 687,
       "2024-11-26": 1440,
       "2024-11-25": 687,
-      "2024-10-29": 33,
-      "2024-07-20": 46
+      "2024-10-29": 33
     }
   },
   {
@@ -147,13 +147,13 @@
     "uptime": "91.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.24%",
+    "uptimeMonth": "78.56%",
     "uptimeYear": "75.64%",
     "time": 788,
-    "timeDay": 562,
-    "timeWeek": 489,
-    "timeMonth": 404,
-    "timeYear": 734,
+    "timeDay": 413,
+    "timeWeek": 506,
+    "timeMonth": 415,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-06-26": 882,
       "2025-06-25": 1440,
@@ -247,8 +247,7 @@
       "2025-03-08": 59,
       "2024-12-25": 453,
       "2024-12-24": 647,
-      "2024-10-29": 33,
-      "2024-07-20": 46
+      "2024-10-29": 33
     }
   },
   {
@@ -257,16 +256,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.thonk.xyz.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "91.06%",
+    "uptime": "91.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.24%",
+    "uptimeMonth": "78.56%",
     "uptimeYear": "75.64%",
-    "time": 772,
-    "timeDay": 374,
-    "timeWeek": 258,
-    "timeMonth": 246,
-    "timeYear": 711,
+    "time": 771,
+    "timeDay": 242,
+    "timeWeek": 267,
+    "timeMonth": 251,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2025-06-26": 882,
       "2025-06-25": 1440,
@@ -361,8 +360,7 @@
       "2024-12-25": 453,
       "2024-12-24": 646,
       "2024-10-29": 32,
-      "2024-09-09": 22,
-      "2024-07-20": 45
+      "2024-09-09": 22
     }
   },
   {
@@ -371,16 +369,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/transmission.thonk.xyz.ico",
     "slug": "transmission",
     "status": "up",
-    "uptime": "90.25%",
+    "uptime": "90.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.24%",
+    "uptimeMonth": "78.56%",
     "uptimeYear": "75.07%",
     "time": 606,
-    "timeDay": 332,
-    "timeWeek": 255,
-    "timeMonth": 225,
-    "timeYear": 568,
+    "timeDay": 262,
+    "timeWeek": 268,
+    "timeMonth": 231,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2025-06-26": 882,
       "2025-06-25": 1440,
@@ -477,8 +475,7 @@
       "2025-01-26": 565,
       "2024-12-25": 453,
       "2024-12-24": 646,
-      "2024-10-29": 32,
-      "2024-07-20": 45
+      "2024-10-29": 32
     }
   },
   {
@@ -487,16 +484,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/netdata.thonk.xyz.ico",
     "slug": "netdata",
     "status": "up",
-    "uptime": "63.39%",
+    "uptime": "63.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.24%",
-    "uptimeYear": "12.27%",
-    "time": 477,
-    "timeDay": 782,
-    "timeWeek": 898,
-    "timeMonth": 678,
-    "timeYear": 329,
+    "uptimeMonth": "78.56%",
+    "uptimeYear": "12.55%",
+    "time": 475,
+    "timeDay": 766,
+    "timeWeek": 901,
+    "timeMonth": 701,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2025-06-26": 882,
       "2025-06-25": 1440,
@@ -817,8 +814,7 @@
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
-      "2024-07-21": 1440,
-      "2024-07-20": 1440
+      "2024-07-21": 1440
     }
   },
   {
@@ -830,13 +826,13 @@
     "uptime": "90.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.24%",
+    "uptimeMonth": "78.56%",
     "uptimeYear": "75.65%",
-    "time": 945,
-    "timeDay": 315,
-    "timeWeek": 266,
-    "timeMonth": 231,
-    "timeYear": 860,
+    "time": 944,
+    "timeDay": 252,
+    "timeWeek": 275,
+    "timeMonth": 237,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2025-06-26": 882,
       "2025-06-25": 1440,
@@ -929,8 +925,7 @@
       "2025-03-30": 638,
       "2025-03-08": 59,
       "2024-12-25": 453,
-      "2024-12-24": 645,
-      "2024-07-20": 44
+      "2024-12-24": 645
     }
   },
   {
@@ -939,18 +934,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.thonk.xyz.ico",
     "slug": "thonk-minecraft",
     "status": "down",
-    "uptime": "74.97%",
+    "uptime": "74.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "37.53%",
     "uptimeYear": "61.16%",
     "time": 2195,
-    "timeDay": 880,
-    "timeWeek": 947,
-    "timeMonth": 2189,
+    "timeDay": 976,
+    "timeWeek": 964,
+    "timeMonth": 2214,
     "timeYear": 2220,
     "dailyMinutesDown": {
-      "2025-07-19": 117,
+      "2025-07-20": 130,
+      "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -1100,8 +1096,7 @@
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
-      "2024-07-21": 1440,
-      "2024-07-20": 1440
+      "2024-07-21": 1440
     }
   },
   {
@@ -1113,12 +1108,12 @@
     "uptime": "91.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.24%",
+    "uptimeMonth": "78.56%",
     "uptimeYear": "75.64%",
     "time": 612,
-    "timeDay": 808,
-    "timeWeek": 934,
-    "timeMonth": 679,
+    "timeDay": 792,
+    "timeWeek": 929,
+    "timeMonth": 701,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-06-26": 882,
@@ -1212,8 +1207,7 @@
       "2025-03-30": 638,
       "2025-03-08": 117,
       "2024-12-25": 453,
-      "2024-12-24": 643,
-      "2024-07-20": 43
+      "2024-12-24": 643
     }
   },
   {
@@ -1222,15 +1216,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.thonk.xyz.ico",
     "slug": "thonk-status-page",
     "status": "up",
-    "uptime": "89.51%",
+    "uptime": "89.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.24%",
+    "uptimeMonth": "78.56%",
     "uptimeYear": "69.74%",
-    "time": 113,
-    "timeDay": 97,
+    "time": 114,
+    "timeDay": 131,
     "timeWeek": 179,
-    "timeMonth": 133,
+    "timeMonth": 135,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-06-26": 882,
