@@ -1,7 +1,7 @@
 url: https://tautulli.thonk.xyz
-status: up
-code: 200
-responseTime: 210
-lastUpdated: 2025-09-08T23:11:59.726Z
+status: down
+code: 503
+responseTime: 86
+lastUpdated: 2025-09-09T18:50:20.400Z
 startTime: 2022-08-31T06:16:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
