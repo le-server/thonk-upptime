@@ -1,7 +1,7 @@
 url: https://status.thonk.xyz
-status: down
-code: 500
-responseTime: 120
-lastUpdated: 2025-11-18T11:34:15.627Z
+status: up
+code: 200
+responseTime: 90
+lastUpdated: 2025-11-18T11:50:55.872Z
 startTime: 2022-08-31T06:16:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
