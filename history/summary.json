@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/32400.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "70.74%",
+    "uptime": "70.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 538,
+    "time": 539,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 172,
+      "2026-04-16": 198,
+      "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -379,8 +380,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -393,12 +393,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.13%",
+    "uptimeYear": "80.41%",
     "time": 579,
-    "timeDay": 761,
-    "timeWeek": 582,
+    "timeDay": 558,
+    "timeWeek": 599,
     "timeMonth": 654,
-    "timeYear": 489,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-11-18": 43,
       "2025-06-26": 882,
@@ -471,8 +471,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -485,12 +484,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.12%",
-    "time": 439,
-    "timeDay": 340,
-    "timeWeek": 314,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "uptimeYear": "80.40%",
+    "time": 437,
+    "timeDay": 290,
+    "timeWeek": 313,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2025-11-18": 98,
       "2025-06-26": 882,
@@ -563,8 +562,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -573,15 +571,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/transmission.thonk.xyz.ico",
     "slug": "transmission",
     "status": "up",
-    "uptime": "92.24%",
+    "uptime": "92.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.12%",
-    "time": 370,
-    "timeDay": 383,
-    "timeWeek": 295,
-    "timeMonth": 297,
+    "uptimeYear": "80.40%",
+    "time": 369,
+    "timeDay": 303,
+    "timeWeek": 300,
+    "timeMonth": 298,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2025-11-18": 81,
@@ -655,8 +653,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -665,16 +662,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/netdata.thonk.xyz.ico",
     "slug": "netdata",
     "status": "up",
-    "uptime": "70.52%",
+    "uptime": "70.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "78.89%",
-    "time": 630,
-    "timeDay": 712,
-    "timeWeek": 811,
-    "timeMonth": 762,
-    "timeYear": 649,
+    "uptimeYear": "79.17%",
+    "time": 631,
+    "timeDay": 827,
+    "timeWeek": 815,
+    "timeMonth": 764,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2026-03-23": 53,
       "2026-03-09": 80,
@@ -760,8 +757,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -770,16 +766,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.thonk.xyz.ico",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "92.74%",
+    "uptime": "92.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.13%",
-    "time": 444,
-    "timeDay": 353,
-    "timeWeek": 334,
+    "uptimeYear": "80.41%",
+    "time": 442,
+    "timeDay": 303,
+    "timeWeek": 342,
     "timeMonth": 303,
-    "timeYear": 257,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2025-11-18": 43,
       "2025-06-26": 882,
@@ -852,8 +848,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -862,18 +857,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.thonk.xyz.ico",
     "slug": "thonk-minecraft",
     "status": "down",
-    "uptime": "69.53%",
+    "uptime": "69.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "37.81%",
-    "time": 1164,
-    "timeDay": 810,
-    "timeWeek": 928,
-    "timeMonth": 909,
-    "timeYear": 1169,
+    "time": 1165,
+    "timeDay": 1029,
+    "timeWeek": 944,
+    "timeMonth": 911,
+    "timeYear": 1171,
     "dailyMinutesDown": {
-      "2026-04-15": 172,
+      "2026-04-16": 199,
+      "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -1105,8 +1101,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -1115,16 +1110,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thonk.xyz.ico",
     "slug": "thonk-website",
     "status": "up",
-    "uptime": "92.53%",
+    "uptime": "92.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "78.90%",
+    "uptimeYear": "79.18%",
     "time": 660,
-    "timeDay": 705,
-    "timeWeek": 803,
+    "timeDay": 805,
+    "timeWeek": 802,
     "timeMonth": 758,
-    "timeYear": 672,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2026-03-23": 53,
       "2026-03-09": 56,
@@ -1210,8 +1205,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -1220,15 +1214,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.thonk.xyz.ico",
     "slug": "thonk-status-page",
     "status": "up",
-    "uptime": "91.63%",
+    "uptime": "91.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.08%",
+    "uptimeYear": "80.36%",
     "time": 138,
-    "timeDay": 467,
-    "timeWeek": 236,
-    "timeMonth": 175,
+    "timeDay": 152,
+    "timeWeek": 233,
+    "timeMonth": 174,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-11-18": 99,
@@ -1310,8 +1304,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   }
 ]
